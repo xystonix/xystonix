@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://i.imgur.com/1I2mHDP.png" alt="Xystonix">
+  <img src="https://ibb.co/KsxGVkd" alt="Xystonix">
   <br>
 </h1>
 
